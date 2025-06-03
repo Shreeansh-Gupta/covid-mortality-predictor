@@ -61,7 +61,7 @@ Confusion Matrix:
 
 ## 🎯 SHAP Feature Importance
 
-![SHAP](images/shap_summary.png)
+![SHAP](images/summary_plot.png)
 
 - Key predictors: Age, Pneumonia, ICU Admission, Renal Disease, Intubation
 
